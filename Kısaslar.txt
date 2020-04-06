@@ -1,0 +1,7 @@
+Devremizde toplam 9 tane LED vardýr.
+
+LED ' leri Arduino'nun dijital pinlerine sýrasýyla baðladýk. 
+
+Bu pinler sýrasýyla: 2,3,4,5,6,7,8,9,10 ' dur.
+
+LED sayýmýzýn fazla olmasýndan dolayý ve daha az satýrda kod yazmak için for döngülerinden yararlanýlmýþtýr.
